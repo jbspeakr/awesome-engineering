@@ -10,3 +10,4 @@
 ## Management
 * [Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/)
 * [How to conduct a good Programming Interview](http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
+* [Engineering Management : Lessons learned in first year](https://swaroopch.com/2018/11/15/engineering-management-lessons-learned-in-first-year/)
