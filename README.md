@@ -6,6 +6,7 @@
 
 ## Software Engineering
 * [Hexagonal Architecture](https://dzone.com/articles/hello-hexagonal-architecture-1)
+* [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 
 ## Management
 * [Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/)
