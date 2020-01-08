@@ -14,7 +14,7 @@
 * [Ports and Adapters Pattern](https://softwarecampament.wordpress.com/portsadapters/)
 * [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 * [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
-* [https://blog.mattbierner.com/10-years-stack-overflow-learnings/](https://blog.mattbierner.com/10-years-stack-overflow-learnings/)
+* [What I've learned over 10 years on Stack Overflow](https://blog.mattbierner.com/10-years-stack-overflow-learnings/)
 
 ## Management
 * [Migrations: the sole scalable fix to tech debt.](https://lethain.com/migrations/)
