@@ -15,6 +15,7 @@
 * [How to Feel Less Overwhelmed as a Developer](https://medium.com/@juliahaigh/how-to-feel-less-overwhelmed-as-a-developer-79bc816709de)
 * [The Product-Minded Software Engineer](https://blog.pragmaticengineer.com/the-product-minded-engineer/)
 * [What I've learned over 10 years on Stack Overflow](https://blog.mattbierner.com/10-years-stack-overflow-learnings/)
+* [Falsehoods programmers believe about time zones](https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/)
 
 ## Technical Writing
 * [The Day You Became A Better Writer](https://dilbertblog.typepad.com/the_dilbert_blog/2007/06/the_day_you_bec.html)
