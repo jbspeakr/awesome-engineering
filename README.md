@@ -28,3 +28,6 @@
 * [Performance Reviews for Software Engineers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 * [Two speed IT - the more I look, the worse it gets.](https://blog.gardeviance.org/2015/12/two-speed-it-more-i-look-worse-it-gets.html?m=1)
 * [The Most Important Thing](https://svpg.com/the-most-important-thing/)
+
+## IAM 
+* https://girders.org/2013/01/31/dont-rfc-validate-email-addresses/
